@@ -2,11 +2,14 @@
 	margin: 0px;
 	padding: 0px;
 }
+body{
+
+}
 #body{
 	background-image: linear-gradient(to right top, #0de1e1, #00d7de, #00ccda, #0dc2d5, #1bb7cf);
 	background-repeat: no-repeat;
 	width: 100%;
-	height: 100vh;
+	height: 100%;
 	/*background-size: 400% 400%;*/
 	position: relative;
 }
